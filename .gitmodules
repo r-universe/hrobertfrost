@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "EESPCA"]
+	path = EESPCA
+	url = https://github.com/cran/EESPCA
+[submodule "PCGSE"]
+	path = PCGSE
+	url = https://github.com/cran/PCGSE
+[submodule "RESET"]
+	path = RESET
+	url = https://github.com/cran/RESET
+[submodule "TPAC"]
+	path = TPAC
+	url = https://github.com/cran/TPAC
+[submodule "TPACData"]
+	path = TPACData
+	url = https://github.com/cran/TPACData
+[submodule "VAM"]
+	path = VAM
+	url = https://github.com/cran/VAM
